@@ -1,4 +1,5 @@
 # Obs: o navegador Tor precisa estar aberto.
+# https://www.torproject.org/download/
 
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
